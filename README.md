@@ -1,7 +1,7 @@
 <h1> <div align="center">Welcom Hogwarts 👋</div></h1>
  &nbsp;
  
-<div align="center">🌱Languages🌱</div>
+<div align="center">🌱Stack🌱</div>
 &nbsp;
 
 <div align="center">
