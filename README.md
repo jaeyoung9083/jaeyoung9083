@@ -26,7 +26,9 @@
 &nbsp;
 
 <div align="center">
+	<a href="https://dobby-factory.tistory.com/manage/posts/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
+	</a>
 	<a href ="https://github.com/jaeyoung9083">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	</a>
