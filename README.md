@@ -1,4 +1,4 @@
- <div align="center">Welcom Hogwarts 👋</div>
+<h1> <div align="center">Welcom Hogwarts 👋</div></h1>
  &nbsp;
  
 <div align="center">🌱Languages🌱</div>
@@ -36,4 +36,10 @@
 	<a href="mailto:jaeyoung9083@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
+</div>
+&nbsp;
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoung9083&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=jaeyoung9083&show_icons=true">
 </div>
