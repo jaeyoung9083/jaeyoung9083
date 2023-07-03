@@ -32,7 +32,7 @@
 	<a href ="https://github.com/jaeyoung9083">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	</a>
-	<a href="jaeyoung9083@gmail.com"></a>
+	<a href="mailto:﻿superman@test.com?subject=안녕하세요."></a>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 </div>
